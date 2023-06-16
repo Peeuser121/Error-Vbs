@@ -1,0 +1,1 @@
+X=MsgBox("Wanna install Windows 7 Nesik Edition?", 0+16, "Windows XP Nesik Edition is on EOL")
